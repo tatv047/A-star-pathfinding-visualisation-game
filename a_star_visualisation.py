@@ -1,3 +1,8 @@
+'''
+author: Utkarsh Dev
+email: utkarshdev047@gmail.com
+'''
+
 import pygame
 import math
 from queue import PriorityQueue
