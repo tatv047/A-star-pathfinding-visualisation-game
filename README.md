@@ -1,6 +1,5 @@
-# A-star-pathfinding-visualisation-game
-This is an implementation of the A* pathfinding algorithm using the Pygame library in Python. 
-The A* algorithm is used to find the shortest path between a start and end point on a grid.
+# Pathfinding-visualisation-game
+This is an implementation of the A*, Dijkstra's pathfinding algorithm using the Pygame library in Python. 
 
 # Let's break down the code step-by-step:
 
